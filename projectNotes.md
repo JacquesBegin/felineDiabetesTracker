@@ -32,3 +32,43 @@ Please make a node/express API with an abstracted data layer with a database of 
   * Popups
     * Dialog
     * Snackbar
+
+
+* PrimeNG
+  * Input
+    * InputGroup
+    * Calendar
+    * InputTextArea
+    * Spinner
+
+  * Button
+    * Button
+
+  * Data
+    * TreeTable
+    * Tree
+    * Picklist
+    * DataTable
+
+  * Panel
+    * Use their Grid system
+
+  * Overlay
+    * Dialog
+
+  * Menu
+    * Get used to the MenuModel and how to route with it
+
+  * Charts
+    * Surprise me
+
+  * Messages
+    * Messages
+    * Growl
+
+
+
+BONUS WORK
+Ui Router State Machine
+https://ui-router.github.io/ng2/
+https://github.com/ui-router/angular
