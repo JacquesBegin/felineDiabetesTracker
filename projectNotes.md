@@ -12,3 +12,23 @@ Please make a node/express API with an abstracted data layer with a database of 
     * Checkbox
     * Select
     * Slide Toggle
+
+  * Nav
+    * Sidenav
+    * Toolbar
+    * Menu
+
+  * Layout
+    * Card
+    * Tabs
+
+  * Buttons
+    * Button
+    * Chips
+    * Icon
+    * Progress Spinner (make both a determinate and indeterminate variant)
+    * Progress Bar (make both a determinate and indeterminate variant)
+
+  * Popups
+    * Dialog
+    * Snackbar
