@@ -6,21 +6,21 @@ Please make a node/express API with an abstracted data layer with a database of 
 
 * Material:
   * Form Controls
-    * Datepicker
-    * Input
-    * Radio
-    * Checkbox
-    * Select
-    * Slide Toggle
+    * Datepicker - *For tracking insulin shots*
+    * Input - *For inputting feline name*
+    * Radio - *Selecting male or female, spayed/neutered*
+    * Checkbox - **
+    * Select - *Behavior*
+    * Slide Toggle - **
 
   * Nav
-    * Sidenav
+    * Sidenav - **
     * Toolbar
     * Menu
 
   * Layout
     * Card
-    * Tabs
+    * Tabs - *Switch between data entry, results view, feline information*
 
   * Buttons
     * Button
